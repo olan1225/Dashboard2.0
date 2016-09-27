@@ -32,5 +32,12 @@
     "url": "http://olan1225.duckdns.org:8888/gui/",
     "description": "BitTorrent Sync",
     "fontawesome_icon": "fa-film"
+  },
+
+  "SeaFile": {
+    "title": "SeaFile",
+    "url": "http://olan1225.duckdns.org:8008",
+    "description": "Personal Cloud",
+    "fontawesome_icon": "fa-search"
   }
 }

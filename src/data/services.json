@@ -1,36 +1,36 @@
 {
   "sonarr": {
     "title": "sonarr",
-    "url": "http://sonarr.lonn.xyz",
+    "url": "http://olan1225.duckdns.org:8989/calendar",
     "description": "Auto dowload TV-series.",
     "fontawesome_icon": "fa-television"
   },
 
   "deluge": {
     "title": "deluge",
-    "url": "http://deluge.lonn.xyz ",
+    "url": "http://olan1225.duckdns.org:8112/",
     "description": "A torrent client",
     "fontawesome_icon": "fa-download"
   },
 
   "plexpy": {
     "title": "plexpy",
-    "url": "http://plexpy.lonn.xyz",
+    "url": "http://olan1225.duckdns.org:8181/home",
     "description": "Statistics from plex",
     "fontawesome_icon": "fa-pie-chart"
   },
 
   "router": {
     "title": "Router",
-    "url": "http://router.lonn.xyz",
+    "url": "http://olan1225.duckdns.org",
     "description": "Access to the router",
     "fontawesome_icon": "fa-search"
   },
 
-  "plex": {
-    "title": "plex",
-    "url": "http://plex.lonn.xyz",
-    "description": "A plex server",
+  "BTSync": {
+    "title": "BTSync",
+    "url": "http://olan1225.duckdns.org:8888/gui/",
+    "description": "BitTorrent Sync",
     "fontawesome_icon": "fa-film"
   }
 }

@@ -1,0 +1,28 @@
+---
+title: 'Bomgatan - Digital services directory'
+---
+<div class="row">
+
+  {{#sortedEach services}}
+    <div class="large-4 medium-6 small-12 columns">
+      <div class="service">
+        <h3>
+          {{#if this.fontawesome_icon}}
+            <i class="fa {{this.fontawesome_icon}}"></i>
+          {{/if}}
+          
+          <a href="{{this.url}}">{{this.title}}</a>
+        </h3>
+        <p>{{this.description}}</p>
+
+        <div class="actions">
+          <a href="{{this.url}}" target="_blank" class="button"><i class="fa fa-external-link"></i> Open service</a>
+          {{#if this.github_url}}
+            <a href="{{this.github_url}}" target="_blank" class="button secondary"><i class="fa fa-github"></i> GitHub</a>
+          {{/if}}
+        </div>
+      </div>
+    </div>
+  {{/sortedEach}}
+
+</div>

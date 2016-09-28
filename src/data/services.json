@@ -8,7 +8,7 @@
 
   "deluge": {
     "title": "deluge",
-    "url": "http://olan1225.duckdns.org:8112/",
+    "url": "http://deluge.olan1225.pw/",
     "description": "A torrent client",
     "fontawesome_icon": "fa-download"
   },

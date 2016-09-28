@@ -17,21 +17,21 @@
     "title": "plexpy",
     "url": "http://plexpy.olan1225.pw/",
     "description": "Statistics from plex",
-    "fontawesome_icon": "fa-pie-chart"
+    "fontawesome_icon": "fa-bar-chart"
   },
 
   "router": {
     "title": "Router",
     "url": "http://asus.olan1225.pw/",
     "description": "Access to the router",
-    "fontawesome_icon": "fa-search"
+    "fontawesome_icon": "fa-wifi"
   },
 
   "BTSync": {
     "title": "BTSync",
     "url": "http://sync.olan1225.pw/",
     "description": "BitTorrent Sync",
-    "fontawesome_icon": "fa-film"
+    "fontawesome_icon": "fa-refresh"
   },
 
   "SeaFile": {

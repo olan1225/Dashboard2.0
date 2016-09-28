@@ -1,20 +1,20 @@
 {
   "sonarr": {
-    "title": "sonarr",
+    "title": "Sonarr",
     "url": "http://sonarr.olan1225.pw/",
     "description": "Auto dowload TV-series.",
     "fontawesome_icon": "fa-television"
   },
 
   "deluge": {
-    "title": "deluge",
+    "title": "Deluge",
     "url": "http://deluge.olan1225.pw/",
     "description": "A torrent client",
     "fontawesome_icon": "fa-download"
   },
 
   "plexpy": {
-    "title": "plexpy",
+    "title": "PlexPy",
     "url": "http://plexpy.olan1225.pw/",
     "description": "Statistics from plex",
     "fontawesome_icon": "fa-bar-chart"

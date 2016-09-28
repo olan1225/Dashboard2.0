@@ -1,7 +1,7 @@
 {
   "sonarr": {
     "title": "sonarr",
-    "url": "http://olan1225.duckdns.org:8989/calendar",
+    "url": "http://sonarr.olan1225.pw/",
     "description": "Auto dowload TV-series.",
     "fontawesome_icon": "fa-television"
   },
@@ -15,28 +15,28 @@
 
   "plexpy": {
     "title": "plexpy",
-    "url": "http://olan1225.duckdns.org:8181/home",
+    "url": "http://plexpy.olan1225.pw/",
     "description": "Statistics from plex",
     "fontawesome_icon": "fa-pie-chart"
   },
 
   "router": {
     "title": "Router",
-    "url": "http://olan1225.duckdns.org",
+    "url": "http://asus.olan1225.pw/",
     "description": "Access to the router",
     "fontawesome_icon": "fa-search"
   },
 
   "BTSync": {
     "title": "BTSync",
-    "url": "http://olan1225.duckdns.org:8888/gui/",
+    "url": "http://sync.olan1225.pw/",
     "description": "BitTorrent Sync",
     "fontawesome_icon": "fa-film"
   },
 
   "SeaFile": {
     "title": "SeaFile",
-    "url": "http://olan1225.duckdns.org:8000",
+    "url": "http://seafile.olan1225.pw/",
     "description": "Personal Cloud",
     "fontawesome_icon": "fa-cloud"
   }

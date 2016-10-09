@@ -43,7 +43,7 @@
 
   "UniFi": {
     "title": "UniFi",
-    "url": "https://olan1225.duckdns.org:8443/manage/site/default",
+    "url": "http://unifi.olan1225.pw/",
     "description": "Unifi Access Point",
     "fontawesome_icon": "fa-wifi"
   }
